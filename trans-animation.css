@@ -47,7 +47,7 @@
 }
 
 .ex-6-img{
-  transition: all 1s;
+  /* transition: all 1s; */
 }
 
 .ex-6-img:hover{
